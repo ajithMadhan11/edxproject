@@ -1,0 +1,28 @@
+body 
+{
+  
+    /* text-align: center; */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: black;
+}
+
+h1
+{
+    color:grey;
+    font-size: 35px;
+}
+
+.cont{
+   
+    width: 500px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    margin-left: 40px;
+}
+#rangetext{
+    margin-left: 0px;
+    color: blue;
+}
